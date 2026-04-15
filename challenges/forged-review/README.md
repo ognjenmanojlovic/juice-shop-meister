@@ -28,6 +28,22 @@ Instead of using the authenticated session, the application trusts user-controll
 
 This means an attacker can impersonate another user by modifying the request payload.
 
+### How to Identify Target Users
+
+To successfully impersonate another user, we first need a valid identifier such as an email address.
+
+In OWASP Juice Shop, user email addresses can be discovered in multiple ways:
+
+- During login attempts (error messages may reveal valid users)
+- Through previously known default accounts (e.g., admin)
+- By analyzing application behavior and public information
+
+For example, the following admin account is commonly known in Juice Shop:
+
+admin@juice-sh.op
+
+This email can be used to demonstrate how the application allows impersonation due to missing access control validation.
+
 ---
 
 ## 2. Security Impact
