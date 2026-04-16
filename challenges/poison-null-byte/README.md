@@ -7,7 +7,7 @@
 | Juice Shop Flag | `score-board#Poison Null Byte` |
 | Tools Used | Browser (Address Bar / DevTools) |
 | Status | Solved |
-| Video Demo | Coming soon |
+| Video Demo | [Click Here](https://somup.com/cOfDVdVcPJA) |
 
 ---
 

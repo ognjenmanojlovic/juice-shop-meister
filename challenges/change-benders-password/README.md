@@ -7,7 +7,7 @@
 | Juice Shop Flag | `score-board#Change Bender's Password` |
 | Tools Used | Browser DevTools (Network / Console) |
 | Status | Solved |
-| Video Demo | Coming soon |
+| Video Demo | [Click Here](https://somup.com/cOfDVHVcPJO) |
 
 ---
 

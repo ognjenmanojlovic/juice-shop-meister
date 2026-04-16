@@ -7,7 +7,7 @@
 | Juice Shop Flag | `score-board#Forged Review` |
 | Tools Used | Browser DevTools (Network / Console) |
 | Status | Solved |
-| Video Demo | Coming soon |
+| Video Demo | [Click Here](https://somup.com/cOfDVmVcPJ3) |
 
 ---
 

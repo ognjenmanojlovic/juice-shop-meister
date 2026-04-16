@@ -39,8 +39,8 @@ The following challenges are included in this repository:
 - **Category:** Broken Access Control → Horizontal Privilege Escalation
 - **Flag:** `score-board#Forged Review`
 - **Summary:** Submits a product review on behalf of another user by manipulating request data.
-- 📄 Read full report: `./challenges/forged-review/README.md`
-- 🎥 Video demo: Coming soon
+- 📄 [Read Full Report](./challenges/forged-review/README.md)
+- 🎥 [Watch Video Demo](https://somup.com/cOfDVmVcPJ3)
 
 ---
 
@@ -48,8 +48,8 @@ The following challenges are included in this repository:
 - **Category:** Broken Authentication
 - **Flag:** `score-board#Change Bender's Password`
 - **Summary:** Resets another user's password without proper authorization.
-- 📄 Read full report: `./challenges/change-benders-password/README.md`
-- 🎥 Video demo: Coming soon
+- 📄 [Read Full Report](./challenges/change-benders-password/README.md)
+- 🎥 [Watch Video Demo](https://somup.com/cOfDVHVcPJO)
 
 ---
 
@@ -57,8 +57,8 @@ The following challenges are included in this repository:
 - **Category:** Injection
 - **Flag:** `score-board#User Credentials`
 - **Summary:** Extracts sensitive user login data through an injection vulnerability.
-- 📄 Read full report: `./challenges/user-credentials/README.md`
-- 🎥 Video demo: Coming soon
+- 📄 [Read Full Report](./challenges/user-credentials/README.md)
+- 🎥 [Watch Video Demo](https://somup.com/cOfDVJVcPJy)
 
 ---
 
@@ -66,5 +66,5 @@ The following challenges are included in this repository:
 - **Category:** Improper Input Validation
 - **Flag:** `score-board#Poison Null Byte`
 - **Summary:** Bypasses file type validation using a null byte injection technique.
-- 📄 Read full report: `./challenges/poison-null-byte/README.md`
-- 🎥 Video demo: Coming soon
+- 📄 [Read Full Report](./challenges/poison-null-byte/README.md)
+- 🎥 [Watch Video Demo](https://somup.com/cOfDVdVcPJA)
